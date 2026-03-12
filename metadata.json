@@ -1,0 +1,5 @@
+{
+  "name": "인트리 또율아빠 발주 자동화 보조 프로그램",
+  "description": "Extracts product code mappings from PDFs and applies them to Sabangnet Excel files.",
+  "requestFramePermissions": []
+}
